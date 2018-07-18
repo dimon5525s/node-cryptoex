@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/ja3eschien/node-cryptoex.svg?branch=master)](https://travis-ci.org/ja3eschien/node-cryptoex)
 
+[![NPM](https://nodei.co/npm/cryptoex.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/cryptoex/)
+
 # Simple cryptocurrency converter
 
 Cryptocurrency exchange rate library with support for 100+ exchanges and 15+ reliable banks and financial data sources.
