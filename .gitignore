@@ -16,4 +16,3 @@ chrome-user-data
 *.swp
 *.swo
 .nyc_output
-dist
