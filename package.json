@@ -1,6 +1,6 @@
 {
   "name": "cryptoex",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Cryptocurrency exchange rate library with support for 100+ exchanges and 15+ reliable banks and financial data sources.",
   "main": "index.js",
   "scripts": {
